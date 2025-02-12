@@ -6,8 +6,8 @@ This repository includes wildlife datasets captured by drones.
 # Citation
 If you use our provided data and/or models, please cite our work at,
 
-    @article{SAWIT,
-        author       = {Thi Thu Thuy Nguyen and 
+    @article{DAID-T,
+        author       = {Tan Vuong and 
                       Anne C. Eichholtzer and 
                       Don A. Driscoll and 
                       Nathan I. Semianiw and 
