@@ -6,7 +6,7 @@ This repository includes wildlife datasets captured by drones.
 # Citation
 If you use our provided datasets and/or models, please cite our respective works at,
 
-aaa
+**DAID-T**
 
     @article{DAID-T,
         author       = {Tan Vuong and 
