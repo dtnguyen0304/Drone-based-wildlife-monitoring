@@ -11,9 +11,9 @@ If you use our provided datasets, please cite our respective works.
 For DAID-T,
 
   @article{DAID-T,
+  
         author       = {Tan Vuong and 
-                      Miao Chang and 
-                      
+                      Miao Chang and                     
                       Manas Palaparthi and 
                       Lachlan G. Howell and 
                       Alessio Bonti and 
