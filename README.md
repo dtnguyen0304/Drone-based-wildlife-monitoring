@@ -6,8 +6,9 @@ This repository includes wildlife datasets captured by drones.
 # Citation
 If you use our provided datasets, please cite our respective works.
 
-- For DAID-T
-    @article{DAID-T,
+For DAID-T,
+
+  @article{DAID-T,
         author       = {Tan Vuong and 
                       Miao Chang and 
                       Manas Palaparthi and 
