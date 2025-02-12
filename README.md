@@ -12,7 +12,6 @@ For DAID-T,
 
   @article{DAID-T,
         author       = {Tan Vuong and 
-        
                       Miao Chang and 
                       
                       Manas Palaparthi and 
