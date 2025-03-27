@@ -1,7 +1,10 @@
 # Drone-based-wildlife-monitoring
-This repository includes wildlife datasets captured by drones.
+This repository includes a wildlife dataset captured by drones.
 
 - DAID-T: A Drone-based Animal Image Dataset with annotated Thermal detections
+
+There is one class (animal) of interest. Each training/validation image (.jpg) is provided with a ground-truth annotation file (.txt) formatted using the YOLO's format, e.g., classID centre_x, centre_y width height. Note that centre_x, centre_y, width and height are normalised values.
+
 
 # Citation
 If you use our provided datasets and/or models, please cite our respective works at,
